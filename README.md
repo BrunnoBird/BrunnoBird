@@ -1,4 +1,4 @@
-### Hi i'm Brunno Gonzalez 👋
+### Hi i'm Brunno González 👋
 
 - 🔭 Currently working with React Native
 - 🌱 Studying Typescript
