@@ -1,7 +1,7 @@
 ### Hi i'm Brunno González 👋
 
 - 🔭 Currently working with React Native
-- 🌱 Studying Typescript
+- 🌱 Studying Typescript - ReactJS
 - 😄 Pronouns: he, his
 - ⚡ Fun fact: Saxophonist player
 
