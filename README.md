@@ -1,6 +1,6 @@
 ### Hi i'm Brunno González 👋
 
-- 🔭 Currently working Mobile Developer with React Native
+- 🔭 Currently working with Mobile Developer (React Native)
 - 🌱 Studying Flutter / Dart
 - 😄 Pronouns: he, his
 - ⚡ Fun fact: Saxophonist player
