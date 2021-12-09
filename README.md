@@ -1,7 +1,7 @@
 ### Hi i'm Brunno González 👋
 
 - 🔭 Currently working with Mobile Developer (React Native)
-- 🌱 Studying React
+- 🌱 Studying Swift / iOS
 - 😄 Pronouns: he, his
 - ⚡ Fun fact: Saxophonist player
 
