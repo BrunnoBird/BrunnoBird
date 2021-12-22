@@ -2,7 +2,6 @@
 
 - 🔭 Currently working with Mobile Developer (React Native)
 - 🌱 Studying ReactJS
-- 😄 Pronouns: he, his
 - ⚡ Fun fact: Saxophonist player
 
  <div>
