@@ -1,7 +1,7 @@
 ### Hi i'm Brunno González 👋
 
 - 🔭 Currently working with Mobile Developer (React Native)
-- 🌱 Studying ReactJS
+- 🌱 Studying Android
 - ⚡ Fun fact: Saxophonist player
 
  <div>
