@@ -1,7 +1,7 @@
 ### Hi i'm Brunno González 👋
 
-- 🔭 Currently working with Mobile Developer(React Native) and Front-End(React)
-- 🌱 Studying Front-end Web Development ( React | NextJS )
+- 🔭 Currently working with Mobile Developer(React Native)
+- 🌱 Studying Android Development
 - ⚡ Fun fact: Saxophonist player
 
  <div>
@@ -13,9 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
    <img align="center" alt="Rafa-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="center" alt="Rafa-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
 </div>
   
 ##
