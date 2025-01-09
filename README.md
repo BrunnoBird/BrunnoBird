@@ -1,7 +1,8 @@
 ### Hi i'm Brunno González 👋
 
 - 🔭 Currently working as a Android Developer
-- 🌱 Studying Design System
+- 🥇 Specialist of Design System
+- 🌱 Studying Kotlin Multiplatform
 - ⚡ Fun fact: Saxophonist player
 
  <div>
